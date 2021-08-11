@@ -2,7 +2,6 @@ title = "Seminar of digital democracy"
 baseURL = "https://digital-democracy.yelo.studio"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
-themesDir = "../.."
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
@@ -13,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "Seminar of digital democracy"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
@@ -31,13 +30,13 @@ enableRobotsTXT = true
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = "https://twitter.com/jonapiron"
   instagram = ""
   youtube = ""
-  github = ""
+  github = "https://github.com/jonapiron/digital-democracy"
   gitlab = ""
   linkedin = ""
-  mastodon = ""
+  mastodon = "https://mamot.fr/@jonapiron"
   slack = ""
   stackoverflow = ""
   rss = ""
