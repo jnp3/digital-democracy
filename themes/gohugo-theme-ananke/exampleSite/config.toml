@@ -1,5 +1,5 @@
-title = "Seminar of digital democracy"
-baseURL = "https://digital-democracy.yelo.studio"
+title = "Notre-Dame de Paris"
+baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "../.."
