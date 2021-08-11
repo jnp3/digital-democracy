@@ -1,0 +1,18 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="{{ .Site.BaseURL }}">
+
+  <title>
+    {{ block "title" . }}
+      {{ if .Page.IsHome }}
+        {{ .Site.Title -}}
+      {{ else }}
+        {{- .Title }} - {{ .Site.Title -}}
+      {{ end }}
+    {{ end }}
+  </title>
+
+  <link rel="stylesheet" href="{{ "css/bulma.min.css" | relURL }}">
+
+</head>

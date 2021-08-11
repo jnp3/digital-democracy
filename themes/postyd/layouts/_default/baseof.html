@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "en-us" }}">
+
+  {{- partial "head.html" . -}}
+  
+  <body>
+    {{- partial "header.html" . -}}
+
+    <!-- Navbar -->
+    {{ partial "navbar.html" . }}
+
+    <!-- Main Content Section -->
+    <section class="section">
+      <div class="columns is-centered">
+        <div class="column is-10-tablet is-8-desktop is-6-widescreen">
+          {{ block "main" . }}
+          {{ end }}
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+    {{ partial "footer.html" . }}
+    </footer>
+
+  </body>
+</html>
