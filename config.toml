@@ -5,12 +5,13 @@ theme = "postyd"
 
 
 [params]
-description = "Course material for the seminar of digital democracy"
+description = "Exploring the challenges for democracy in the digital age."
 author = "Jonathan Piron"
 authorWebsite = "https://jonapiron.be"
 license = "CC BY-NC-SA 4.0"
 licenseTitle = "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
 licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+favicon = "/favicons/"
 
   [[params.socialIcon]]
   icon = "fab fa-github"
