@@ -1,6 +1,26 @@
-baseURL = "https://example.com"
+baseURL = "https://digital-democracy.netlify.app/"
 languageCode = "en-us"
-title = "postyd"
+title = "Seminar of digital democracy"
 theme = "postyd"
 
-copyright = "Jonathan Piron"
+[params]
+author = "Jonathan Piron"
+authorWebsite = "https://jonapiron.be"
+license = "CC BY-NC-SA 4.0"
+licenseTitle = "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+[[params.socialIcons]]
+icon = "fas fa-github"
+title = "github"
+url = "https://github.com/jonapiron/digital-democracy"
+
+[menu]
+
+  [[menu.main]]
+  name = ""
+  identifier = ""
+  weight = ""
+  url = ""
+
+

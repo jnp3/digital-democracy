@@ -1,3 +1,9 @@
 {{ define "main" }}
+{{ partial "navbar.html" . }}
 
+<section class="section">
+  <div class="container content">
+    {{ .Content }}
+  </div>
+</section>
 {{ end }}

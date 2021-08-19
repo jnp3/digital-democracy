@@ -1,5 +1,8 @@
-<div class="has-text-centered">
-  <p>
-      {{ .Site.Copyright }}
-  </p>
-</div>
+<footer class="footer">
+  <div class="container is-max-desktop">
+    <p class="has-text-centered">
+      <small><a rel="license" href="{{ .Site.Params.licenseURL }}" target="_blank"><abbr title="{{ .Site.Params.licenseTitle }}">{{ .Site.Params.license }}</abbr></a> · <a href="{{ .Site.Params.authorWebsite }}" target="_blank">{{ .Site.Params.author }}</a> · {{ dateFormat "2006" now }}
+      </small>
+    </p>
+  </div>
+</footer>
