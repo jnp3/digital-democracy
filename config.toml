@@ -3,24 +3,32 @@ languageCode = "en-us"
 title = "Seminar of digital democracy"
 theme = "postyd"
 
+
 [params]
+description = "Course material for the seminar of digital democracy"
 author = "Jonathan Piron"
 authorWebsite = "https://jonapiron.be"
 license = "CC BY-NC-SA 4.0"
 licenseTitle = "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
 licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 
-[[params.socialIcons]]
-icon = "fas fa-github"
-title = "github"
-url = "https://github.com/jonapiron/digital-democracy"
+  [[params.socialIcon]]
+  icon = "fab fa-github"
+  title = "github"
+  url = "https://github.com/jonapiron/digital-democracy"
+
 
 [menu]
 
   [[menu.main]]
-  name = ""
-  identifier = ""
-  weight = ""
-  url = ""
-
+  title = "about"
+  identifier = "about"
+  weight = "10"
+  url = "/about"
+  
+  [[menu.main]]
+  title = "test"
+  identifier = "test"
+  weight = "10"
+  url = "test"
 
