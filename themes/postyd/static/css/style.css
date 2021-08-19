@@ -7,3 +7,41 @@ h1,h2,h3 {
 p {
   font-family: 'Poppins', sans-serif;
 }
+
+:root{
+  --dark-bg-color: #242424; 
+  --light-bg-color: #f9f9f9;
+  --dark-body-color: #f9f9f9;
+  --light-body-color: #242424;
+  --dark-link-color: #cccccc;
+  --light-link-color: #cccccc;
+  --dark-primary-color: #ffd633;
+  --light-primary-color: #fdd633;
+  --dark-accent-color: #0A0A0A;
+  --light-accent-color: #0A0A0A;
+  --dark-text-color: ;
+  --light-text-color: ;
+  --selection-color: #ffd633;
+}
+
+/* 
+@media (prefers-color-scheme: dark){
+  body {color: var(--dark-body-color) ; background: var(--dark-bg-color)}
+  a:link {color: var(--dark-link-color)}
+  a:hover, a:visited:hover {color: var(--)}
+  a:visited {color: var(--)}
+}
+@media (prefers-color-scheme: light){
+  body {color: var(--light-body-color); background: var(--light-bg-color)}
+  a:link {color: var(--light-link-color)}
+  a:hover, a:visited:hover {color: var(--)}
+  a:visited {color: var(--)}
+}
+*/
+
+::-moz-selection { /* Code for Firefox */
+  background: var(--selection-color);
+  }
+::selection {
+  background: var(--selection-color);
+  }
