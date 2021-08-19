@@ -6,6 +6,9 @@
       {{ end }}
     </div>
       <div class="navbar-end">
+        {{ range .Site.Menus.other }}
+        <a href="{{ .URL | relURL }}" class="navbar-item is-uppercase">{{ .Title }}</a>
+        {{ end }}
         <div class="navbar-item">
           {{ range .Site.Params.socialIcon }}
           <a class="icon" href="{{ .url }}" target="_blank">

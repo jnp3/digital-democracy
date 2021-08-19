@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Space+Grotesk:wght@400;600&display=swap');
+
+h1,h2,h3 {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+}

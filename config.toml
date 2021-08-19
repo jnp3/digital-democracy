@@ -21,14 +21,21 @@ licenseURL = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 [menu]
 
   [[menu.main]]
+  
+  [[menu.main]]
+  title = "Chapter 1"
+  identifier = "chap1"
+  weight = "10"
+  url = "chapters/01"
+
+  [[menu.main]]
+  title = "Chapter 2"
+  identifier = "chap2"
+  weight = "10"
+  url = "chapters/02"
+
+  [[menu.other]]
   title = "about"
   identifier = "about"
   weight = "10"
   url = "/about"
-  
-  [[menu.main]]
-  title = "test"
-  identifier = "test"
-  weight = "10"
-  url = "test"
-
