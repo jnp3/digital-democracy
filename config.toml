@@ -22,7 +22,12 @@ favicon = "/favicons/"
 [menu]
 
   [[menu.main]]
-  
+  title = "Course description"
+  identifier = "description"
+  weight = "5"
+  url = "/course-description"
+
+
   [[menu.main]]
   title = "Chapter 1"
   identifier = "ch1"
