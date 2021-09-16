@@ -1,6 +1,7 @@
 ---
 title: "About"
 date: 2021-08-19T12:48:49+02:00
+draft: true
 ---
 
 Hi! 👋 
