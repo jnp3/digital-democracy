@@ -41,6 +41,12 @@ favicon = "/favicons/"
   weight = "30"
   url = "chapters/03"
 
+  [[menu.main]]
+  title = "Resources"
+  identifier = "resources"
+  weight = "40"
+  url = "resources"
+
 
   [[menu.other]]
   title = "about"
