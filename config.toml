@@ -33,6 +33,12 @@ favicon = "/favicons/"
   weight = "5"
   url = "/course-description"
 
+  [[menu.main]]
+  title = "Programme"
+  identifier = "programme"
+  weight = "10"
+  url = "/programme"
+
   #[[menu.main]]
   #title = "Chapter 1"
   #identifier = "ch1"
@@ -51,15 +57,15 @@ favicon = "/favicons/"
   #weight = "30"
   #url = "chapters/03"
 
-  [[menu.main]]
-  title = "Resources"
-  identifier = "resources"
-  weight = "40"
-  url = "resources"
+  #[[menu.main]]
+  #title = "Resources"
+  #identifier = "resources"
+  #weight = "40"
+  #url = "resources"
 
 
-  [[menu.other]]
-  title = "about"
-  identifier = "about"
-  weight = "10"
-  url = "/about"
+  #[[menu.other]]
+  #title = "about"
+  #identifier = "about"
+  #weight = "10"
+  #url = "/about"
