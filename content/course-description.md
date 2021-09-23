@@ -22,5 +22,3 @@ The evaluation is continuous and ends before the exams’ session. The final gra
 
 1. the contribution to the course dynamics (including active and regular participation in class and the preparation of the seminar’s sessions);
 2. the production of a personal critical analysis on a case study related to a challenge for democracy at the digital age.
-
-Practical information about the seminar and the evaluation will be explained in class and sent via email to all registered students after the first session.
