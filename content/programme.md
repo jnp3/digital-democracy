@@ -10,3 +10,5 @@ draft: false
 - **Session #4**: Tuesday **9 November**, 08:30 AM → 10:30 AM (LECL 81)
 - **Session #5**: Thursday **25 November**, 02:00 PM → 04:00 PM (LECL 81)
 - **Session #6**: Thursday **9 December**, 02:00 PM → 04:00 PM (LECL 81)
+
+_[> see official schedule](http://horaire.uclouvain.be/direct/index.jsp?displayConfName=webEtudiant&showTree=false&showOptions=false&login=etudiant&password=student&projectId=8&code=LSPRI2224)_
