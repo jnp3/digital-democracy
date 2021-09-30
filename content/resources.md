@@ -1,20 +1,37 @@
 ---
 title: "Resources"
 date: 2021-08-19T16:34:21+02:00
-draft: true
+draft: false
 ---
-
-
-# Videos
-
-- [The Social Dilemma](https://www.humanetech.com/the-social-dilemma) (freely available on YouTube until September 30th) · [Netflix](https://www.netflix.com/be-en/title/81254224) · [trailer](https://youtu.be/uaaC57tcci0) · [official website](https://www.thesocialdilemma.com/) · [full feature](https://youtu.be/7mqR_e2seeM)
-- [Pia Mancini: How to upgrade democracy for the Internet era (TED, 2014)](https://youtu.be/NXfYNdapq3Q)
-- [Digital Social Innovation to Empower Democracy | Audrey Tang | TEDxVitoriaGasteiz](https://youtu.be/LscTx6DHh9I)
-
 
 
 # Books
 
+- “Automating Humanity“ by Joe Toscano—powerHouse Books, 2018
+- “The Age of Surveillance Capitalism“ by Shoshana Zuboff—Profile Books, 2019
+- “Ten Arguments For Deleting Your Social Media Accounts Right Now“ by Jaron Lanier—Henry Holt and Co, 2018
+- “Weapons of Math Destruction“ by Cathy O'Neil—Penguin Books, 2017
+
+
 # Articles
 
 - [Delegative Democracy, Bryan Ford, 2002](https://bford.info/deleg/deleg.pdf)
+- [Internet Futures: Spotlight on the technologies which may shape the Internet of the future](https://www.ofcom.org.uk/research-and-data/internet-and-on-demand-research/internet-futures)
+
+
+# Videos
+
+- [The Social Dilemma](https://www.humanetech.com/the-social-dilemma) (freely available [on YouTube](https://youtu.be/7mqR_e2seeM) until September 30th) · [Netflix](https://www.netflix.com/be-en/title/81254224) · [trailer](https://youtu.be/uaaC57tcci0) · [official website](https://www.thesocialdilemma.com/)
+- [“How to upgrade democracy for the Internet era“, Pia Mancini at TED2014, October 2014](https://youtu.be/NXfYNdapq3Q)
+- [“Digital Social Innovation to Empower Democracy“, Audrey Tang at TEDxVitoriaGasteiz, May 2019](https://youtu.be/LscTx6DHh9I)
+- [“How to upgrade our democracy for the digital era“, Aline Muylaert at TEDxLiège, November 2018](https://youtu.be/Ex53ZB4zTDo)
+- [“Beware online ‘filter bubbles‘“, Eli Pariser at TED2011](https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles?language=en)
+
+
+# Podcasts
+
+- [Civic Tech Chat](https://civictech.chat/)
+- [Darknet Diaries](https://darknetdiaries.com/)
+- [Government vs The Robots](http://governmentvrobots.com/)
+- [How to Fix Democracy](https://www.howtofixdemocracy.org/)
+- [Technopolis](https://www.technopolispodcast.com/)
