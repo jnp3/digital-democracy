@@ -12,3 +12,13 @@ draft: false
 - **Session #6**: Thursday **9 December**, 02:00 PM → 04:00 PM (LECL 81)
 
 _[> see official schedule](http://horaire.uclouvain.be/direct/index.jsp?displayConfName=webEtudiant&showTree=false&showOptions=false&login=etudiant&password=student&projectId=8&code=LSPRI2224)_
+
+
+## Office hours
+
+- Thursday **7 October**, 02:00 PM → 04:00 PM (on Teams)
+- Thursday **21 October**, 02:00 PM → 04:00 PM (on Teams)
+- Thursday **4 November**, 02:00 PM → 04:00 PM (on Teams)
+- Thursday **18 November**, 02:00 PM → 04:00 PM (on Teams)
+- Thursday **2 December**, 02:00 PM → 04:00 PM (on Teams)
+- Thursday **16 December**, 02:00 PM → 04:00 PM (on Teams)
