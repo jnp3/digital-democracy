@@ -39,6 +39,12 @@ favicon = "/favicons/"
   weight = "10"
   url = "/programme"
 
+  [[menu.main]]
+  title = "Resources"
+  identifier = "resources"
+  weight = "15"
+  url = "resources"
+
   #[[menu.main]]
   #title = "Chapter 1"
   #identifier = "ch1"
@@ -56,13 +62,6 @@ favicon = "/favicons/"
   #identifier = "ch3"
   #weight = "30"
   #url = "chapters/03"
-
-  #[[menu.main]]
-  #title = "Resources"
-  #identifier = "resources"
-  #weight = "40"
-  #url = "resources"
-
 
   #[[menu.other]]
   #title = "about"
