@@ -4,7 +4,6 @@ date: 2021-08-19T16:34:21+02:00
 draft: false
 ---
 
-
 # Books
 
 - “Automating Humanity“ by Joe Toscano—powerHouse Books, 2018
@@ -35,3 +34,6 @@ draft: false
 - [Government vs The Robots](http://governmentvrobots.com/)
 - [How to Fix Democracy](https://www.howtofixdemocracy.org/)
 - [Technopolis](https://www.technopolispodcast.com/)
+
+
+_To be continued..._
