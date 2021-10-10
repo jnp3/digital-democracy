@@ -34,6 +34,15 @@ draft: false
 - [Government vs The Robots](http://governmentvrobots.com/)
 - [How to Fix Democracy](https://www.howtofixdemocracy.org/)
 - [Technopolis](https://www.technopolispodcast.com/)
+- [Your Undivided Attention](https://www.humanetech.com/podcast)
 
+
+# Newsletters
+
+- [Center for Humane Technology](https://www.humanetech.com/)
+- [The Digest](https://thelivinglib.org/subscribe/), from [The Living Library](https://thelivinglib.org/)
+
+
+---
 
 _To be continued..._
