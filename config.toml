@@ -2,7 +2,8 @@ baseURL = "https://seminarofdigitaldemocracy.net"
 languageCode = "en-us"
 title = "Seminar of digital democracy"
 theme = "postyd"
-
+summarylength = 10
+enableEmoji = true
 
 [params]
 description = "Exploring the challenges for democracy in the digital age."
@@ -40,28 +41,16 @@ favicon = "/favicons/"
   url = "/programme"
 
   [[menu.main]]
+  title = "Sessions"
+  identifier = "sessions"
+  weight = "15"
+  url = "/sessions"
+
+  [[menu.main]]
   title = "Resources"
   identifier = "resources"
   weight = "15"
   url = "resources"
-
-  #[[menu.main]]
-  #title = "Chapter 1"
-  #identifier = "ch1"
-  #weight = "10"
-  #url = "chapters/01"
-
-  #[[menu.main]]
-  #title = "Chapter 2"
-  #identifier = "ch2"
-  #weight = "20"
-  #url = "chapters/02"
-
-  #[[menu.main]]
-  #title = "Chapter 3"
-  #identifier = "ch3"
-  #weight = "30"
-  #url = "chapters/03"
 
   #[[menu.other]]
   #title = "about"
