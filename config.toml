@@ -5,6 +5,10 @@ theme = "postyd"
 summarylength = 10
 enableEmoji = true
 
+[markup]
+[markup.goldmark]
+fractions = false
+
 [params]
 description = "Exploring the challenges for democracy in the digital age."
 author = "Jonathan Piron"
