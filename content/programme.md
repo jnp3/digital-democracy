@@ -14,4 +14,6 @@ draft: false
 | Session #6 | **Internet privacy and data collection** | 8 December 14:00 | LECL80 |
 | Session #7 | **Blockchain, web3 and decentralized governance** | 22 December 14:00 | LECL80 |
 
+---
+
 _[> see official schedule](http://horaire.uclouvain.be/direct/index.jsp?displayConfName=WEB&showTree=false&showOptions=false&login=enseignant&password=prof&projectId=999&code=LSPRI2224)_
