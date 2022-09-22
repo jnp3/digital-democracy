@@ -1,0 +1,11 @@
+{
+  "Name": "Vancouver",
+  "Version": 0.1,
+  "Author": "iA",
+  "ShortDescription": "Fallen leaves on the ground.",
+  "LongDescription": "Earthy and fresh\n- Different sizes for headlines\n- Dynamic color background\n- Default white on color\n- Default font: Montserrat",
+  "Css": "vancouver.css",
+  "TitleFont": "Montserrat",
+  "BodyFont": "Montserrat",
+  "CssClasses": "variable-size-headings",
+}
