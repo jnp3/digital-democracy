@@ -17,7 +17,7 @@ date: 2021-08-19T16:34:21.000+02:00
 
 # Videos
 
-* [The Social Dilemma](https://www.humanetech.com/the-social-dilemma) (freely available [on YouTube](https://youtu.be/7mqR_e2seeM) until September 30th) · [Netflix](https://www.netflix.com/be-en/title/81254224) · [trailer](https://youtu.be/uaaC57tcci0) · [official website](https://www.thesocialdilemma.com/)
+* [The Social Dilemma](https://www.humanetech.com/the-social-dilemma) (seems to be freely available [here](https://archive.org/details/the-social-dilemma-2020) for now) · [Netflix](https://www.netflix.com/title/81254224) · [trailer](https://youtu.be/uaaC57tcci0) · [official website](https://www.thesocialdilemma.com/)
 * [“How to upgrade democracy for the Internet era“, Pia Mancini at TED2014, October 2014](https://youtu.be/NXfYNdapq3Q)
 * [“Digital Social Innovation to Empower Democracy“, Audrey Tang at TEDxVitoriaGasteiz, May 2019](https://youtu.be/LscTx6DHh9I)
 * [“How to upgrade our democracy for the digital era“, Aline Muylaert at TEDxLiège, November 2018](https://youtu.be/Ex53ZB4zTDo)
@@ -30,7 +30,7 @@ date: 2021-08-19T16:34:21.000+02:00
 * [Darknet Diaries](https://darknetdiaries.com/)
 * [Government vs The Robots](http://governmentvrobots.com/)
 * [How to Fix Democracy](https://www.howtofixdemocracy.org/)
-* [Technopolis](https://www.technopolispodcast.com/)
+* [Technopolis](https://open.spotify.com/show/1gztgbi8fNrRVeUeznH5cK?si=11670bdf624c49e3)
 * [Your Undivided Attention](https://www.humanetech.com/podcast)
 
 # Newsletters
