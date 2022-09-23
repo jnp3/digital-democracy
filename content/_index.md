@@ -14,6 +14,6 @@ I've been invited to teach at [UCLouvain](https://uclouvain.be) for this “semi
 
 ## “Learning in public”
 
-The purpose of this website is to apply the idea of the “[build in public](https://twitter.com/search?q=%23buildinpublic&src=typed_query)” movement to a teaching environment. 
+The purpose of this website is to apply the idea of the “[build in public](https://twitter.com/search?q=%23buildinpublic&src=typed_query)” movement to our teaching environment. 
 
 This website is then a place I created for the students enrolled in this seminar to share their thoughts, ideas and perspectives on the topics we'll cover, gather resources for our discussions and for them to showcase their work somewhere on the Internet.
