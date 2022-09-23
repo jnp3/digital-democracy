@@ -53,7 +53,7 @@ favicon = "/favicons/"
   [[menu.main]]
   title = "Resources"
   identifier = "resources"
-  weight = "15"
+  weight = "20"
   url = "resources"
 
   #[[menu.other]]
