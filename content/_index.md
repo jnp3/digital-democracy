@@ -1,26 +1,19 @@
 ---
-title: "Course Description"
+title: "Home"
 date: 2021-09-16T16:31:55+02:00
 draft: false
 ---
 
 
-# Content
+# Welcome on this website! 👋
 
-This seminar tackles the issues raised by digital technologies for political institutions, politics and policies, and more broadly for the evolution of what we call “democracy“. It also addresses the interaction between all things political and the digitalization of society.
-Themes of discussion include, but are not limited to: social media politics, algorithms and filter bubbles, digital divide, civic tech and online participation tools, blockchain and other governance technologies, Internet privacy and data collection, online tools for political education…
+My name is [Jonathan](https://jonapiron.be), I'm a nerdy political scientist turned entrepreneur, currently doing freelance consultancy on democratic innovation projects (which basically means that I'm working with political institutions in order to try and help them make democracy better).
 
-
-# Teaching methods
-
-This seminar is conceived to be interactive and participative, and relies on the idea of learning by doing. Students will then be encouraged to speak instead of only listen, to write instead of only read, to create instead of only attend. They will have to work on their own projects and share their findings and reflections during collective sessions—which will establish important concepts for studying and shaping democracy in the digital age. 
+I've been invited to teach at [UCLouvain](https://uclouvain.be) for this “seminar of digital democracy” and discuss that very passion of mine—at the crossroads of the three things I both love and hate the most: tech, media and politics—with a bunch of social science students. And I say “discuss” on purpose, because my teaching philosophy is that I'm not here to teach them anything, but I'm here to help them learn.
 
 
-# Evaluation methods
+## “Learning in public”
 
-The evaluation is continuous and ends before the exams’ session. The final grade (from 0 to 20 points) is composed of two parts:
+The purpose of this website is to apply the idea of the “[build in public](https://twitter.com/search?q=%23buildinpublic&src=typed_query)” movement to a teaching environment. 
 
-1. the contribution to the course dynamics (including active and regular participation in class and the preparation of the seminar’s sessions);
-2. the production of a personal critical analysis on a case study related to a challenge for democracy at the digital age.
-
-_[> Course description on official UCLouvain website](https://uclouvain.be/en-cours-2022-lspri2224)_
+This website is then a place I created for the students enrolled in this seminar to share their thoughts, ideas and perspectives on the topics we'll cover, gather resources for our discussions and for them to showcase their work somewhere on the Internet.

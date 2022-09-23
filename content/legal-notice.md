@@ -14,12 +14,12 @@ I am responsible for the publication of this website. You can contact me [via e-
 
 # Design and production
 
-I designed this website with a particular focus on its simplicity and lightness, in an eco-design and digital sobriety approach. It is a static site generated through [Hugo](https://gohugo.io/). The layout is designed using a CSS framework called [Bulma](https://bulma.io/). 
+I designed this website with a particular focus on its simplicity and lightness, in an eco-design and digital sobriety approach. It is a static site generated through [Hugo](https://gohugo.io/). The simple but effective layout is designed using a CSS framework called [Bulma](https://bulma.io/). 
 
 
 # Hosting
 
-I use [Netlify](https://www.netlify.com/) to host this website. The files are deployed from a repo stored on [GitHub](https://github.com/jonapiron/digital-democracy) — to be honest, I'd prefer to host everything on [Infomaniak](https://www.infomaniak.com/en/), my favorite registrar [which has values](https://www.infomaniak.com/en/ecology), but [Netlify does a good job as well](https://www.netlify.com/sustainability/) and the combo with GitHub is super convenient.
+I use [Netlify](https://www.netlify.com/) to host this website. The files are deployed to their CDNs from a repo stored on [GitHub](https://github.com/jonapiron/digital-democracy) — to be honest, I'd prefer to host everything on [Infomaniak](https://www.infomaniak.com/en/), my favorite registrar [which has values](https://www.infomaniak.com/en/ecology), but [Netlify does a good job as well](https://www.netlify.com/sustainability/) and the combo with GitHub is super convenient.
 
 
 # Privacy
