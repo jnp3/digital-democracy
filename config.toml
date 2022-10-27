@@ -44,11 +44,11 @@ favicon = "/favicons/"
   weight = "10"
   url = "/programme"
 
-#  [[menu.main]]
-#  title = "Sessions"
-#  identifier = "sessions"
-#  weight = "15"
-#  url = "/sessions"
+  [[menu.main]]
+  title = "Sessions"
+  identifier = "sessions"
+  weight = "15"
+  url = "/sessions"
 
   [[menu.main]]
   title = "Resources"

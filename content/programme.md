@@ -7,9 +7,9 @@ draft: false
 | Session | Theme | Date | Place |
 |  :---   |  ---  | ---: |  ---: |
 | [Session #1](/sessions/1) | **[Introduction](/sessions/1)** | 22 September 14:00 | LECL80 |
-| Session #2 | **Social media politics** | 13 October 14:00 | LECL80 |
+| [Session #2](/sessions/2) | **[Social media politics](/sessions/2)** | 13 October 14:00 | LECL80 |
 | _Office hours_ | | 20 October 14:00 | Teams |
-| Session #3 | **Algorithms and filter bubbles** | 27 October 14:00 | LECL80 |
+| [Session #3](/sessions/3) | **[Algorithms and filter bubbles](/sessions/3)** | 27 October 14:00 | LECL80 |
 | Session #4 | **Digital divide and online tools to shape political opinions** | 10 November 14:00 | LECL80 |
 | _Office hours_ | | 17 November 14:00 | Teams |
 | Session #5 | **Civic tech and the digitalization of citizen participation** | 24 November 14:00 | LECL80 |
