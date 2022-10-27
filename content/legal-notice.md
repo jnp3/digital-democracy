@@ -1,5 +1,6 @@
 ---
 title: "Legal notice"
+author: "Jonathan Piron"
 date: 2022-09-22T17:56:23+02:00
 draft: false
 ---

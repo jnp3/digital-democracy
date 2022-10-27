@@ -1,7 +1,7 @@
 ---
 title: Resources
+author: "Jonathan Piron"
 date: 2021-08-19T16:34:21.000+02:00
-
 ---
 # Books
 

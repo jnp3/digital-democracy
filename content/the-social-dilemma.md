@@ -1,5 +1,6 @@
 ---
 title: "The Social Dilemma"
+author: "Jonathan Piron"
 date: 2021-09-30T20:14:52+02:00
 draft: false
 ---
