@@ -12,6 +12,16 @@ p {
   font-family: 'Poppins', sans-serif;
 }
 
+ul {
+  font-family: 'Poppins', sans-serif;
+}
+
+ol {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
 :root{
   --dark-bg-color: #242424; 
   --light-bg-color: #f9f9f9;
