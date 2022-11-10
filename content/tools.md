@@ -24,19 +24,25 @@ _‌The tools are sorted by category and in alphabetical order._
 # Audio & Video production
 
 - [Acast](https://acast.com/) • _Host and distribute your podcast_ • `freemium`
+	- Bonus: [Aclass Essentials](https://www.aclass-essentials.com/) • _Learn tips to produce great, original audio content from home_ • `free`
 - [Anchor](https://anchor.fm/) • _Create, host and distribute your podcast (owned by Spotify)_ • `free`
 - [Audacity](https://www.audacityteam.org/) • _Edit audio content_ • `free & open-source`
 - [Auphonic](https://auphonic.com/) • _Use AI-based audio algorithms to automatically improve your audio content with this post-production tool_ • `freemium`
 - [Captivate](https://www.captivate.fm/) • _Host your podcast and access a whole marketing suite_ • `paid (free trial)`
 - [Descript](https://www.descript.com/) • _Edit podcasts or videos and get transcripts from your content in an all-in-one tool that works as easily as a doc_ • `freemium`
 - [Eddy](https://editeddy.com/) • _Edit podcasts or videos in your browser_ • `free`
+- [Forecast](https://overcast.fm/forecast) • _Automate your podcast post-production and encoding workflow_ • `free (macOS only)`
+- [Free Music Archive](https://freemusicarchive.org/) • _Download royalty-free music_ • `free`
 - [GarageBand](https://www.apple.com/mac/garageband/) • _Create and edit audio content with this simple audio creation studio_ • `free (macOS & iOS only)`
 - [Headliner](https://www.headliner.app/) • _Create videos from your podcast automagically_ • `freemium`
 - [Kapwing](https://www.kapwing.com/) • _Edit videos (and much more) in your browser_ • `freemium`
 - [iMovie](https://apps.apple.com/be/app/imovie/id408981434?l=fr&mt=12) • _Edit simple videos on your Mac_ • `free (macOS only)`
 - [LumaFusion](https://apps.apple.com/be/app/lumafusion/id1062022008?l=fr) • _Edit videos on your iPad_ • `paid (iPad only)`
 - [Logimix](https://ladigitale.dev/logimix/) • _Create and edit audio content with this simple audio creation studio_ • `free & open-source`
+- [Podcastle](https://podcastle.ai/) • _Fully produce, edit and distribute your podcast with this AI-powered audio & video creation platform_ • `freemium`
+- [Podcast production checklist](/podcast-production) • _Get started in podcasting with  this simple podcast production checklist_ • `free`
 - [Reaper](https://www.reaper.fm/) • _Create audio content with this complete digital audio workstation (DAW) at an affordable price_ • `paid (free for 60 days)`
+- [Zencastr](https://zencastr.com/) • _Record guest audio online, and produce, edit and distribute your content with this all-in-one podcasting platform_ • `freemium`
 
 
 # Blog & Newsletter
@@ -84,3 +90,8 @@ _‌The tools are sorted by category and in alphabetical order._
 - [Thinglink](https://www.thinglink.com/) • _Create interactive visuals_ • `paid (free trial)`
 - [Timeline.js](https://timeline.knightlab.com/) • _Create beautiful timelines from a Google sheet_ • `free & open-source`
 - [Typeform](https://www.typeform.com/) • _Create surveys or ask simple questions in the most beautiful forms builder_ • `freemium`
+
+
+---
+
+**Found a gem that isn’t listed here?** Please submit your cool digital tool **[here](https://tally.so#tally-open=w2jPeL&tally-layout=modal&tally-width=564&tally-align-left=1)**. Thanks! 🙏
