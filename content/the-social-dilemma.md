@@ -10,18 +10,15 @@ draft: false
 > “Nothing vast enters the life of mortals without a curse.“ 
 — Sophocles
 
-
 > **Tristan Harris** (presentation at Google) “Never before in history have 50 designers—20- to 35-year-old white guys in California—made decisions that would have an impact on two billion people. Two billion people will have thoughts that they didn’t intend to have because a designer at Google said, ‘This is how notifications work on that screen that you wake up to in the morning.’ And we have a moral responsibility, as Google, for solving this problem.“
 
+> `13:15` “The classic saying is ‘If you're not paying for the product, then you _are_ the product.’”
 
 > `14:18` “We’re the product. Our attention is the product being sold to advertisers.“
 
-
 > `14:25` **Jaron Lanier** “It’s the gradual, slight, imperceptible change in your own behavior and perception that is the product.“
 
-
 > `17:54` “What do they do with that data? They build models that predict our actions, and whoever has the best model wins.“
-
 
 > `19:04` Three main goals: engagement, growth, advertising
 
