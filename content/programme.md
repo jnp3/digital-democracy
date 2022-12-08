@@ -13,8 +13,8 @@ draft: false
 | [Session #3](/sessions/3) | **[Algorithms and filter bubbles](/sessions/3)** | 27 October 14:00 | LECL80 |
 | [Session #4](/sessions/4) | **[Digital divide and online tools to shape political opinions](/sessions/4)** | 10 November 14:00 | LECL80 |
 | _Office hours_ | | 17 November 14:00 | Teams |
-| Session #5 | **Civic tech and the digitalization of citizen participation** | 24 November 14:00 | LECL80 |
-| Session #6 | **Internet privacy and data collection** | 8 December 14:00 | LECL80 |
+| [Session #5](/sessions/5) | **[Civic tech and the digitalization of citizen participation](/sessions/5)** | 24 November 14:00 | LECL80 |
+| [Session #6](/sessions/6) | **[Internet privacy and data collection](/sessions/6)** | 8 December 14:00 | LECL80 |
 | _Office hours_ | | 15 December 14:00 | Teams |
 | Session #7 | **Blockchain, web3 and decentralized governance** | 22 December 14:00 | LECL80 |
 
