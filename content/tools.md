@@ -41,6 +41,7 @@ _‌The tools are sorted by category and in alphabetical order._
 | [Podcastle](https://podcastle.ai/) | _Fully produce, edit and distribute your podcast with this AI-powered audio & video creation platform_ | `freemium` |
 | [Podcast production checklist](/podcast-production) | _Get started in podcasting with  this simple podcast production checklist_ | `free` |
 | [Reaper](https://www.reaper.fm/) | _Create audio content with this complete digital audio workstation (DAW) at an affordable price_ | `paid (free for 60 days)` |
+| [Sound effects library](/sound-effects) | _Royalty-free sound effects to use in your podcasts or videos_ | `free`|
 | [Zencastr](https://zencastr.com/) | _Record guest audio online, and produce, edit and distribute your content with this all-in-one podcasting platform_ | `freemium` |
 
 
