@@ -1,5 +1,5 @@
 ---
-title: "Apps & tools"
+title: "Apps & Tools"
 author: "Jonathan Piron"
 date: 2022-09-27T20:00:00+02:00
 draft: false

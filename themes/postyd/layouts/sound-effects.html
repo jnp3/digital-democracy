@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="section">
+  <div class="content">
+		TEST
+    {{ .Content }}
+    {{ with .Resources.Match "files/*"}}
+      <div class="">
+        {{ range . }}
+    
+        {{ .RelPermalink }}
+    
+        <img src="{{ .RelPermalink }}">
+        
+        <audio controls>
+          <source src="{{ .RelPermalink }}" type="audio/ogg">
+          <source src="{{ .RelPermalink }}" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+        
+        {{ end }}
+      </div>
+  </div>
+</section>
+{{ end }}
