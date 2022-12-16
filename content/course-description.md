@@ -52,7 +52,7 @@ On the ‘backend’, it should be a ‘classical research’ or **investigation
 
 But on the ‘frontend’, students have to produce something ‘digital’ (not a simple paper in .pdf). The **format** is up to you—feel free to be creative (website, podcast, video, interactive presentation, newsletter, Twitter thread, application...). No size requirements, because it varies a lot depending on the chosen format, but it should reflect the theoretical 150 hours of work required to validate a 5-credits seminar. 
 
-This production must be **sent on Teams before the first day of the exams session** (in 2022-2023: 8 January, 23:59).
+This production must be **sent on Teams before ~~the first day of the exams session~~** ~~(in 2022-2023: 8 January, 23:59)~~ **15 January 2023, 23:59**.
 
 
 # Useful links
@@ -69,6 +69,6 @@ This production must be **sent on Teams before the first day of the exams sessio
 
 ---
 
-_[> Download .pdf](https://seminarofdigitaldemocracy.net/files/LSPRI2224_course-description.pdf)_
+_[> Download .pdf](/files/LSPRI2224_course-description.pdf)_
 
 _[> Course description on official UCLouvain website](https://uclouvain.be/en-cours-2022-lspri2224)_
