@@ -16,7 +16,7 @@ draft: false
 | [Session #5](/sessions/5) | **[Civic tech and the digitalization of citizen participation](/sessions/5)** | 24 November 14:00 | LECL80 |
 | [Session #6](/sessions/6) | **[Internet privacy and data collection](/sessions/6)** | 8 December 14:00 | LECL80 |
 | _Office hours_ | | 15 December 14:00 | Teams |
-| Session #7 | **Blockchain, web3 and decentralized governance** | 22 December 14:00 | LECL80 |
+| [Session #7](/sessions/7) | **[Blockchain, web3 and decentralized governance](/sessions/7)** | 22 December 14:00 | LECL80 |
 
 ---
 
