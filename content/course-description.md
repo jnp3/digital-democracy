@@ -32,6 +32,7 @@ The evaluation is **continuous and ends before the exams’ session**. The final
 1. the **contribution to the course dynamics** (including active and regular participation in class and the preparation of the seminar’s sessions)—**30 %** of the final grade;
 2. the **production of a personal critical analysis** on a case study related to a challenge for democracy at the digital age—**70 %** of the final grade.
 
+_[> See evaluation criteria grid](/evaluation)_
 
 ## Contribution to the course dynamics
 
