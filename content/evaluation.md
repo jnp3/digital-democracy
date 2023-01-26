@@ -21,7 +21,7 @@ draft: false
 | B2 | → format |  | | 5 |
 | B2a |  | _rigorous presentation of ideas_ | Your ideas are clearly presented, you use the right words in the right context and in the right order. | _1_ |
 | B2b |  | _style_ | Your writing is clear, precise, concise, and makes your content understandable. | _1_ |
-| B2c |  | _formatting rules (text, citations, biliography...)_ | Your content respects the usual academic formatting rules.  | _1_ |
+| B2c |  | _formatting rules (text, citations, bibliography...)_ | Your content respects the usual academic formatting rules.  | _1_ |
 | B2d |  | _spelling, syntax, writing quality_ | Your content does not contain any spelling or grammatical errors. | _1_ |
 | B2e |  | _format relevance_ | The format chosen is relevant to the content of the project.  | _1_ |
 | **TOTAL** |  |  | | **20** |
